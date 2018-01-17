@@ -1,5 +1,5 @@
 <update>
     <version>36</version>
     <name>IonicAppUpdate</name>
-    <url>https://raw.githubusercontent.com/FlashTime/remoteServer/master/android-debug.apk</url>
+    <url>http://192.168.0.56:9000/apk/app-debug.apk</url>
 </update>
